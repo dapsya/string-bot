@@ -51,7 +51,7 @@ class Data:
     ABOUT = """
 **About This Bot** 
 
-Sebuah telegram bot untuk mengambil pyrogram dan telethon string session by @Icallsessionbot
+sᴇʙᴜᴀʜ ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛ ᴜɴᴛᴜᴋ ᴍᴇɴɢᴀᴍʙɪʟ ᴘʏʀᴏɢʀᴀᴍ ᴅᴀɴ ᴛᴇʟᴇᴛʜᴏɴ sᴛʀɪɴɢ sᴇssɪᴏɴ ʙʏ @stringdap_bot
 
 Group Support : [ɢᴀʙᴜɴɢ ᴋᴏɴᴛᴏʟ](https://t.me/privatedap)
 
