@@ -13,12 +13,12 @@ class Data:
 
     buttons = [
         generate_single_button,
-        [InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ", url="https://t.me/bombleebas")],
+        [InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ", url="https://t.me/crossouy")],
         [
             InlineKeyboardButton("ᴄᴏᴍᴍᴀɴᴅ", callback_data="help"), 
             InlineKeyboardButton("ᴀʙᴏᴜᴛ", callback_data="about")
         ],
-        [InlineKeyboardButton("ᴅᴇᴠᴇʟᴏᴘᴇʀ", url="https://t.me/sadcall")],
+        [InlineKeyboardButton("ᴅᴇᴠᴇʟᴏᴘᴇʀ", url="https://t.me/itsdaps")],
     ]
 
     START = """
@@ -29,11 +29,12 @@ class Data:
 **Jika Kamu Tidak Percaya Bot Ini** ? 
 1. ɢᴀᴜsᴀʜ ʙᴀᴄᴀ ᴘᴇsᴀɴ ɪɴɪ
 2. ʙʟᴏᴋɪʀ ʙᴏᴛ ᴀᴛᴀᴜ ᴅᴇʟᴇᴛᴇ ᴄʜᴀᴛ
+3. ᴊɪᴋᴀ ᴍᴀsɪ ɴɢɢᴀ ᴘᴇʀᴄᴀʏᴀ sᴀᴍᴀ ʙᴏᴛ ɪɴɪ ɴɢɢᴀ ᴜsᴀʜ ᴘᴀᴋᴇ ɴɢᴇɴᴛᴏᴛ.
 
 **Still Command** ? 
-ᴀɴᴅᴀ ᴅᴀᴘᴀᴛ ᴍᴇɴɢɢᴜɴᴀᴋᴀɴ sᴀʏᴀ ᴜɴᴛᴜᴋ ᴍᴇɴɢʜᴀsɪʟᴋᴀɴ ᴘʏʀᴏɢʀᴀᴍ ( ᴇᴠᴇɴ ᴠᴇʀsɪᴏɴ 𝟸 ) ᴅᴀɴ sᴇsɪ sᴛʀɪɴɢ ᴛᴇʟᴇᴛʜᴏɴ. ɢᴜɴᴀᴋᴀɴ ᴛᴏᴍʙᴏʟ ᴅɪ ʙᴀᴡᴀʜ ᴜɴᴛᴜᴋ ᴍᴇᴍᴘᴇʟᴀᴊᴀʀɪ ʟᴇʙɪʜ ʟᴀɴᴊᴜᴛ.. 
+ᴀɴᴅᴀ ᴅᴀᴘᴀᴛ ᴍᴇɴɢɢᴜɴᴀᴋᴀɴ ʙᴏᴛ ᴜɴᴛᴜᴋ ᴍᴇɴɢʜᴀsɪʟᴋᴀɴ ᴘʏʀᴏɢʀᴀᴍ ( ᴇᴠᴇɴ ᴠᴇʀsɪᴏɴ 𝟸 ) ᴅᴀɴ sᴇsɪ sᴛʀɪɴɢ ᴛᴇʟᴇᴛʜᴏɴ. ɢᴜɴᴀᴋᴀɴ ᴛᴏᴍʙᴏʟ ᴅɪ ʙᴀᴡᴀʜ ᴜɴᴛᴜᴋ ᴍᴇᴍᴘᴇʟᴀᴊᴀʀɪ ʟᴇʙɪʜ ʟᴀɴᴊᴜᴛ.. 
 
-**Developer** : @sadcall 
+**Developer** : @itsdaps 
     """
 
     HELP = """
@@ -52,11 +53,11 @@ class Data:
 
 Sebuah telegram bot untuk mengambil pyrogram dan telethon string session by @Icallsessionbot
 
-Group Support : [ɢᴀʙᴜɴɢ ᴋᴏɴᴛᴏʟ](https://t.me/hiroshisupport)
+Group Support : [ɢᴀʙᴜɴɢ ᴋᴏɴᴛᴏʟ](https://t.me/privatedap)
 
 Framework : [ᴘʏʀᴏɢʀᴀᴍ](docs.pyrogram.org)
 
 Language : [ᴘʏᴛʜᴏɴ](www.python.org)
 
-Developer : @sadcall
+Developer : @itsdaps
     """
